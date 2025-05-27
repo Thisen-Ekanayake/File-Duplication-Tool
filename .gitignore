@@ -33,3 +33,8 @@
 
 # .docx
 *.docx
+
+# windows files
+*.bat
+
+*.txt
